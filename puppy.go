@@ -21,3 +21,7 @@ func BarkLoudly() string {
 func FromVersion0() {
 	fmt.Println("Hello I am from version 0")
 }
+
+func FromVersion1() {
+	fmt.Println("I am updated puppy and getting bigger")
+}
